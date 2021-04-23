@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.chkbox {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 5px;
+  background-color: rgb(241, 240, 240);
+}
